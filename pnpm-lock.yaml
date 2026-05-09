@@ -1,0 +1,27 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      three-html-render:
+        specifier: ^0.1.2
+        version: 0.1.2
+
+packages:
+
+  three-html-render@0.1.2:
+    resolution: {integrity: sha512-JHx6x006LuLcHMRg+X3DyrrbPVsXklhFJGBtpTULFhbnpK7DidgGr6dJ6aTEaN9sc6uFgwI0VHExEYo4qwVSug==}
+    peerDependencies:
+      three: '>=0.150.0'
+    peerDependenciesMeta:
+      three:
+        optional: true
+
+snapshots:
+
+  three-html-render@0.1.2: {}

@@ -1,5 +1,9 @@
 # `html-in-canvas-polyfill`
 
+
+[![npm version](https://img.shields.io/npm/v/html-in-canvas-polyfill.svg?style=flat-square)](https://www.npmjs.com/package/html-in-canvas-polyfill)
+[![npm downloads](https://img.shields.io/npm/dm/html-in-canvas-polyfill.svg?style=flat-square)](https://www.npmjs.com/package/html-in-canvas-polyfill)
+
 A lightweight polyfill for HTML in Canvas API.
 
 ## Installation

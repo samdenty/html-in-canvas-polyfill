@@ -1,6 +1,6 @@
 {
   "name": "html-in-canvas-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sam Denty <samddenty@gmail.com> (https://samdenty.io/)",
   "description": "HTML in Canvas Polyfill",
   "private": false,
